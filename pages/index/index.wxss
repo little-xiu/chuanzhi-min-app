@@ -1,0 +1,12 @@
+.item{
+  line-height: 40px;
+  border-bottom: 1rpx solid #ddd;
+}
+.item:nth-of-type(1){
+  border-top: 1rpx solid #ddd;
+}
+.modify-btn{
+  float: right;
+  width: 20%;
+  
+}

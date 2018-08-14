@@ -1,0 +1,7 @@
+<button type="primary" bindtap="addAction">新增</button>
+<view class='item' wx:for="{{list}}" wx:key="{{index}}">
+  {{item}}
+  <button class='modify-btn' size="mini" data-index="{{index}}" bindtap='modifyAction'>
+    修改
+  </button>
+</view>

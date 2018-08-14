@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/add/add",
+    "pages/modify/modify"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#e82",
+    "navigationBarTextStyle": "light"
+  }
+}

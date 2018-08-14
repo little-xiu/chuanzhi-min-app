@@ -1,0 +1,6 @@
+<view class='title'>请输入内容:</view>
+
+<input class="input" bindinput="inputAction">
+</input>
+
+<button bindtap='finishAdd' type='primary'>完成</button>

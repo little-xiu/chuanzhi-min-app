@@ -1,0 +1,6 @@
+<view class='title'>请输入内容:</view>
+
+<input class="input" value='{{value}}' bindinput="inputAction">
+</input>
+
+<button bindtap='finishModify' type='primary'>完成</button>
